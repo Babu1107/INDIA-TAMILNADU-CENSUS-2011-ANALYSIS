@@ -8,4 +8,6 @@ Insights:
 
   1. Uttarpradesh is the most populous state and hold about 16.50% of population
   2. Sikkim is the last populous state and hold about 0.05% of population
-  3. 
+  3. In India Male population hold the percentage of about 51.47 where as Female population is 48.53
+  4. In India(Tamilnadu) Male population hold the percentage of about 50.09 where as Female population is 49.91
+  5. 
