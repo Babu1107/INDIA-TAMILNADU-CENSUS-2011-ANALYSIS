@@ -16,3 +16,11 @@ Insights:
   8. Male literacy stands at 77.59 percent while female literacy is at 66.08 percent.
 
 References: www.Kaggle.com
+
+![Page1](https://user-images.githubusercontent.com/104616375/165968817-05cabd40-0317-408f-b2db-a75776cb89bd.jpg)
+
+![Page2](https://user-images.githubusercontent.com/104616375/165968993-55ab3051-4270-4606-9daf-8964668fac0e.jpg)
+
+![Page3](https://user-images.githubusercontent.com/104616375/165969092-286eaaa1-2950-4f07-8f9b-17eb6e9b1902.jpg)
+
+![Page4](https://user-images.githubusercontent.com/104616375/165969173-d12bbbee-230e-4db7-b3f3-d443b63bfc92.jpg)
