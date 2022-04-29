@@ -10,4 +10,6 @@ Insights:
   2. Sikkim is the last populous state and hold about 0.05% of population
   3. In India Male population hold the percentage of about 51.47 where as Female population is 48.53
   4. In India(Tamilnadu) Male population hold the percentage of about 50.09 where as Female population is 49.91
-  5. 
+  5. The highest concentration of Hindu is in Chennai district
+  6. The highest concentration of Muslims is in Ramanathapuram district
+  7. The highest concentration of Christian is in Kanyakumari district
