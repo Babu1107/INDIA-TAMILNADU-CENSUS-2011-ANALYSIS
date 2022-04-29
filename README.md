@@ -13,3 +13,4 @@ Insights:
   5. The highest concentration of Hindu is in Chennai district
   6. The highest concentration of Muslims is in Ramanathapuram district
   7. The highest concentration of Christian is in Kanyakumari district
+  8. Male literacy stands at 77.59 percent while female literacy is at 66.08 percent.
